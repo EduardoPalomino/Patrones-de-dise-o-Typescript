@@ -1,2 +1,2 @@
-# Patrones-de-dise-o-Typescript
-Trabajando con patrones de diseño 
+# Patrones-de-diseno-Typescript
+Trabajando con patrones de diseno 
